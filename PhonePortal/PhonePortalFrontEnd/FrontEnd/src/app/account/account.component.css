@@ -1,0 +1,37 @@
+.content {
+    margin-left: 500px;
+}
+
+
+
+.your-plan {
+    margin-left: 25px;
+}
+
+
+.btn {
+    margin: 30px;
+    margin-left: 100px;
+    background-color: rgb(27, 27, 226);
+}
+
+.phone {
+    max-width: 245px;
+    width: 245px;
+}
+
+.form-control1 {
+    max-width: 200px;
+    width: 200px;
+}
+
+.form-group {
+    max-width: 200px;
+    width: 200px;
+
+}
+
+
+.phonenumberbutton {
+    float: right;
+  }

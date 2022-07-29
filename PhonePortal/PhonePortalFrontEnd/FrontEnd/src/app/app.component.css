@@ -1,0 +1,32 @@
+.navbar{
+    background-color:rgb(83, 131, 203);
+}
+
+.container-links{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 10px;
+
+}
+
+.btn{
+    border-color: aliceblue;
+    width: 170px;
+    margin-left: 1000px;
+    background-color: rgb(83, 131, 203);
+    color:rgb(255, 255, 255);
+    font-weight: 600;
+}
+
+.navbar-brand{
+    /*color: rgb(255, 149, 0);*/
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+    margin-left: 110px;
+}
+
+.name {
+    margin-left: 2px;
+}
+
